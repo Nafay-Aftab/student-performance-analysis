@@ -68,7 +68,7 @@ The app is deployed on Streamlit and accessible here:
 
 
 # Clone the repository
-git clone https://github.com/Nafay-Aftab/student_performance_analysis.git
+git clone https://github.com/Nafay-Aftab/student-performance-analysis.git
 
 # Navigate to the project directory
 cd student-performance-analysis
